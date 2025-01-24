@@ -6,7 +6,7 @@
 - [ ] The Artist
 
 ## Weapons
-- [ ] Brass Candlestick
+- [X] Brass Candlestick
 - [ ] Heavy Book
 - [X] Magnifying Glass
 
