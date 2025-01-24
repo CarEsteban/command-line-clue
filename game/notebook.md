@@ -2,7 +2,7 @@
 
 ## Suspects
 - [X] The Musician
-- [ ] The Shopkeeper
+- [X] The Shopkeeper
 - [ ] The Artist
 
 ## Weapons
