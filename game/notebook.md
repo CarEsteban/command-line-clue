@@ -19,6 +19,8 @@
 RESPUESTA: El asesino fue "The Artist" y el armafue "Heavy Book" y el asesinato fue realizado en el estanque (pond) del parque.
 
 
+Mensaje de la consola:
+
 Success! This untouched room is exactly what you've been looking for - the scene of the crime!
 
 Your careful detective work has paid off. The empty state of this room matches 
